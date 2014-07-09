@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>loading-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{199, 1}, {32, 32}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 32}</string>
+		</dict>
+		<key>loading-10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {32, 32}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 32}</string>
+		</dict>
+		<key>loading-11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{133, 1}, {32, 32}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 32}</string>
+		</dict>
+		<key>loading-12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{166, 1}, {32, 32}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 32}</string>
+		</dict>
+		<key>loading-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{265, 1}, {32, 32}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 32}</string>
+		</dict>
+		<key>loading-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{67, 1}, {32, 32}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 32}</string>
+		</dict>
+		<key>loading-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{331, 1}, {32, 32}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 32}</string>
+		</dict>
+		<key>loading-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{34, 1}, {32, 32}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 32}</string>
+		</dict>
+		<key>loading-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 1}, {32, 32}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 32}</string>
+		</dict>
+		<key>loading-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{298, 1}, {32, 32}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 32}</string>
+		</dict>
+		<key>loading-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{364, 1}, {32, 32}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 32}</string>
+		</dict>
+		<key>loading-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{100, 1}, {32, 32}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 32}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{512, 64}</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<root>
+	<description name="text">
+		<attribute p1="100" p2="395" text="The number on the">
+		</ttribute>
+		<attribute p1="100" p2="375" text="Die is the number of">
+		</ttribute>
+		<attribute p1="100" p2="355" text="moves it can make">
+		</ttribute>
+		<attribute p1="90" p2="305" text="Click and Drag the Die in">
+        </attribute>
+		<attribute p1="90" p2="285" text="the direction you want it">
+        </attribute>
+		<attribute p1="90" p2="265" text="to move,then release">
+        </attribute>
+		<attribute p1="190" p2="85" text="Move each Die to an">
+		</attribute>
+		<attribute p1="190" p2="65" text="Outlined Zone with">
+		</attribute>
+		<attribute p1="190" p2="45" text="no moves remaining">
+		</attribute>
+	</description>
+	<level name="leveldata">
+		<unmove x="3" y="4">
+		</unmove>
+		<unmove x="2" y="5">
+		</unmove>
+		<unmove x="4" y="5">
+		</unmove>
+		<move x="4" y="2" s="3">
+		</move>
+		<move x="5" y="4" s="2">
+		</move>
+		<move x="1" y="5" s="1">
+		</move>
+	</level>
+</root>

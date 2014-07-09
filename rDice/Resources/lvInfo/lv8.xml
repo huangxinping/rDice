@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<root>
+	<level name="leveldata">
+		<unmove x="2" y="2">
+		</unmove>
+		<unmove x="4" y="2">
+		</unmove>
+		<unmove x="2" y="4">
+		</unmove>
+		<unmove x="3" y="4">
+		</unmove>
+		<unmove x="4" y="4">
+		</unmove>
+		<move x="3" y="2" s="2">
+		</move>
+		<move x="3" y="3" s="2">
+		</move>
+		<move x="1" y="4" s="1">
+		</move>
+		<move x="4" y="5" s="3">
+		</move>
+		<move x="5" y="4" s="1">
+		</move>
+	</level>
+</root>
